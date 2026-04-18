@@ -1,2 +1,16 @@
-# my-first-project
-This repository reflects my learning journey in AI tools, technology, and basic programming as a beginner.
+# My First Project
+
+Hello! 👋
+
+I am a student currently learning and exploring technology and AI tools.  
+This repository is part of my learning journey where I will share my basic projects and progress.
+
+## What I am learning
+- Basics of programming  
+- AI tools and applications  
+- Problem solving  
+
+## Goal
+My goal is to improve my skills and build useful projects in the future.
+
+Thanks for visiting! 😊
